@@ -5,7 +5,6 @@
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=lgldlk&show_icons=true&theme=gotham&locale=cn" alt="lgldlk" />
  
- ---
 
 </br>
 </br>
