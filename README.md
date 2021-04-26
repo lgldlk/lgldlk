@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
- <img src="http://aiitapp.cn:8091/?mode=1&color=rgba(25,120,100,1)&color=rgba(37,144,118,1)&fontSize=100" height="25px" alt="lgldlk" />
+ <img src="http://aiitapp.cn:8091/?mode=1&color=rgba(25,120,100,1)&color=rgba(37,144,118,1)&fontSize=16" height="25px" alt="lgldlk" />
  </br>
  <img src="https://github-readme-stats.vercel.app/api?username=lgldlk&show_icons=true&theme=gotham&locale=cn" alt="lgldlk" />
  
