@@ -11,7 +11,7 @@
 
 <img align=""  src="http://github-readme-stats.vercel.app/api/top-langs/?username=lgldlk&show_icons=true&theme=gotham&locale=cn" alt="lgldlk"/>  
 </br>
-<img src="http://101.37.30.236:8091/?mode=1&color=rgba(12,16,20,1)&color=rgba(37,144,118,1)&fontSize=16"/>
+<img src="http://aiitapp.cn:8091/?mode=1&color=rgba(12,16,20,1)&color=rgba(37,144,118,1)&fontSize=16&showAuthor=true" height="30px"/>
 </br>
     <img src="https://visitor-badge.glitch.me/badge?page_id=lgldlk" alt="lgldlk" />
     
