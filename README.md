@@ -3,6 +3,8 @@
 </div>
 
 <div align="center">
+ <a href="https://github.com/lgldlk/git-readme-hitokoto">欢迎使用git一言展示</a>
+ <>br/>
  <img src="http://aiitapp.cn:8091/?color=rgba(37,144,118,1)&shadowColor=rgba(12,16,20,1)&fontSize=120&&shadowOffsetX=10&shadowOffsetY=10" height="26px" alt="lgldlk" />
  </br>
 
