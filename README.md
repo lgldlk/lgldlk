@@ -11,9 +11,10 @@
 
 <img align=""  src="http://github-readme-stats.vercel.app/api/top-langs/?username=lgldlk&show_icons=true&theme=gotham&locale=cn" alt="lgldlk"/>  
 </br>
+<img src="http://101.37.30.236:8091/?mode=1&color=rgba(12,16,20,1)&color=rgba(37,144,118,1)&fontSize=16"/>
 </br>
     <img src="https://visitor-badge.glitch.me/badge?page_id=lgldlk" alt="lgldlk" />
-    <img src="http://lg.azwcl.com:8091/?color=rgb(12,%2016,%2020,1)&color=rgb(37,144,118)&color=rgb(37,144,118)&fontSize=16" alt="lgldlk" />
+    
 </div >
   
 ---
