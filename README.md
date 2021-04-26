@@ -13,7 +13,7 @@
 </br>
 </br>
     <img src="https://visitor-badge.glitch.me/badge?page_id=lgldlk" alt="lgldlk" />
-    
+    <img src="http://lg.azwcl.com:8091/?color=rgb(12,%2016,%2020,1)&color=rgb(37,144,118)&color=rgb(37,144,118)&fontSize=16" alt="lgldlk" />
 </div >
   
 ---
