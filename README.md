@@ -18,11 +18,7 @@
 <img src="https://wakatime.com/share/@c742cbae-b1f7-4655-b48f-518824236c36/1e75a753-2d3a-43a6-a579-2579334b7e63.png" />
 </br>
 
-<a href="https://github.com/lgldlk/actions/update-image-readme">
- <img src="http://aiitapp.cn:8091/?color=rgba(37,144,118,1)&shadowColor=rgba(12,16,19,1)&fontSize=120&&shadowOffsetX=10&shadowOffsetY=10&username=lgldlk" height="26px" alt="lgldlk" />
-<img src="http://aiitapp.cn:8091/?color=rgba(37,144,118,1)&shadowColor=rgba(12,16,21,1)&fontSize=120&&shadowOffsetX=10&shadowOffsetY=10&username=lgldlk" height="26px" alt="lgldlk" />
-<img src="http://aiitapp.cn:8091/?color=rgba(37,144,118,1)&shadowColor=rgba(12,16,22,1)&fontSize=120&&shadowOffsetX=10&shadowOffsetY=10&username=lgldlk" height="26px" alt="lgldlk" />
-</a>
+
  </br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=lgldlk" alt="lgldlk" />
 </div >
