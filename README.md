@@ -14,11 +14,11 @@
 
 </br>
 
-<img  src="http://github-readme-stats.vercel.app/api/top-langs/?username=lgldlk&show_icons=true&theme=gotham&locale=cn" alt="lgldlk"/>  
+<img  src="http://github-readme-stats.vercel.app/api/top-langs/?username=lgldlk&show_icons=true&theme=gotham&locale=cn&layout=compact" alt="lgldlk"/>  
 </br>
 
 </br>
-    <img src="https://github-readme-stats.vercel.app/api?username=lgldlk&count_private=true" alt="lgldlk" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lgldlk&theme=gotham&locale=cn" alt="lgldlk" />
     
 </div >
   
