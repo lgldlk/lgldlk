@@ -18,7 +18,7 @@
 </br>
 
 </br>
-    <img src="https://github-readme-stats.vercel.app/api?username=lgldlk" alt="lgldlk" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lgldlk&count_private=true" alt="lgldlk" />
     
 </div >
   
