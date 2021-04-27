@@ -16,7 +16,7 @@
 
 <img  src="http://github-readme-stats.vercel.app/api/top-langs/?username=lgldlk&show_icons=true&theme=gotham&locale=cn&layout=compact" alt="lgldlk"/>  
 </br>
-
+<img src="https://wakatime.com/share/@c742cbae-b1f7-4655-b48f-518824236c36/1e75a753-2d3a-43a6-a579-2579334b7e63.png" />
 </br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=lgldlk" alt="lgldlk" />
 </div >
