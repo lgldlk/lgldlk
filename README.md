@@ -18,8 +18,7 @@
 </br>
 
 </br>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lgldlk" alt="lgldlk" />
-    
+  <img src="https://visitor-badge.glitch.me/badge?page_id=lgldlk" alt="lgldlk" />
 </div >
   
 ---
