@@ -18,7 +18,7 @@
 </br>
 
 </br>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lgldlk&locale=cn" alt="lgldlk" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lgldlk" alt="lgldlk" />
     
 </div >
   
