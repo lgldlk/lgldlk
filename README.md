@@ -18,7 +18,8 @@
 <img src="github-readme-stats.vercel.app/api/wakatime?username=lgldlk" alt="lgldlk" />
 </br>
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  </br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=lgldlk" alt="lgldlk" />
 </div >
