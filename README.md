@@ -19,6 +19,11 @@
 </br>
 
 <!--START_SECTION:waka-->
+```text
+HTML         1 hr 19 mins    █████████████░░░░░░░░░░░░   52.65 % 
+JavaScript   37 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.21 % 
+Markdown     33 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.12 % 
+```
 <!--END_SECTION:waka-->
  </br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=lgldlk" alt="lgldlk" />
