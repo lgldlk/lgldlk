@@ -15,7 +15,7 @@
 
 <img  src="http://github-readme-stats.vercel.app/api/top-langs/?username=lgldlk&show_icons=true&theme=gotham&locale=cn&layout=compact" alt="lgldlk"/>  
 </br>
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
+<img src="github-readme-stats.vercel.app/api/wakatime?username=lgldlk" alt="lgldlk" />
 </br>
 
 
