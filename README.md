@@ -15,7 +15,6 @@
 
 <img  src="http://github-readme-stats.vercel.app/api/top-langs/?username=lgldlk&show_icons=true&theme=gotham&locale=cn&layout=compact" alt="lgldlk"/>  
 </br>
-<img src="github-readme-stats.vercel.app/api/wakatime?username=lgldlk" alt="lgldlk" />
 </br>
 
 <!--START_SECTION:waka-->
