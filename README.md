@@ -19,6 +19,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Week: 20 April, 2021 - 27 April, 2021
+
 HTML         1 hr 19 mins    █████████████░░░░░░░░░░░░   52.65 % 
 JavaScript   37 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.21 % 
 Markdown     33 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.12 % 
