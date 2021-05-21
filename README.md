@@ -18,15 +18,6 @@
 </br>
 
 <!--START_SECTION:waka-->
-```text
-Week: 13 May, 2021 - 20 May, 2021
-
-Other        45 hrs 17 mins  ████████████████████▒░░░░   81.24 % 
-Vue.js       4 hrs 37 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-TypeScript   3 hrs 43 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-SCSS         1 hr 37 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-JavaScript   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-```
 <!--END_SECTION:waka-->
 
  </br>
