@@ -31,8 +31,7 @@ Go           35 mins         ▒░░░░░░░░░░░░░░░░
 
  </br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=lgldlk" alt="lgldlk" />
-</div >
-  
+
 ---
 
  
