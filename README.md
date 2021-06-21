@@ -18,6 +18,14 @@
 </br>
 
 <!--START_SECTION:waka-->
+```text
+Week: 13 June, 2021 - 20 June, 2021
+
+Other        61 hrs 5 mins   ████████████████████████░   96.40 % 
+TypeScript   2 hrs 4 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+JavaScript   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+```
 <!--END_SECTION:waka-->
 
  </br>
