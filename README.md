@@ -19,13 +19,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 July, 2021 - 12 July, 2021
+Week: 07 July, 2021 - 13 July, 2021
 
-Other        72 hrs 2 mins   █████████████████████▒░░░   85.16 % 
-TypeScript   6 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Vue.js       2 hrs 31 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-JavaScript   1 hr 38 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-SCSS         1 hr 23 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Other        71 hrs 57 mins  █████████████████████▒░░░   85.37 % 
+TypeScript   6 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+JavaScript   2 hrs 21 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Vue.js       2 hrs 15 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+SCSS         52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 <!--END_SECTION:waka-->
 
