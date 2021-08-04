@@ -19,13 +19,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 July, 2021 - 02 August, 2021
+Week: 28 July, 2021 - 03 August, 2021
 
-Other        46 hrs 43 mins  ██████████████████████▓░░   90.26 % 
-Vue.js       2 hrs 35 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-JavaScript   1 hr 32 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-JSON         49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-TypeScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Other        46 hrs 4 mins   ██████████████████████░░░   87.86 % 
+Vue.js       3 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+JavaScript   1 hr 56 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+JSON         48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+TypeScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 <!--END_SECTION:waka-->
 
