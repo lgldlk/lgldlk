@@ -19,13 +19,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 August, 2021 - 12 August, 2021
+Week: 07 August, 2021 - 13 August, 2021
 
-Other           10 hrs 57 mins  █████████████▒░░░░░░░░░░░   53.20 % 
-Vue.js          5 hrs 59 mins   ███████▒░░░░░░░░░░░░░░░░░   29.10 % 
-JavaScript      2 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-JSON            50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-WiX Installer   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Other           15 hrs 39 mins  ██████████████▓░░░░░░░░░░   59.05 % 
+Vue.js          6 hrs 53 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.02 % 
+JavaScript      2 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+JSON            53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+WiX Installer   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 <!--END_SECTION:waka-->
 
