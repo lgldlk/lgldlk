@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 August, 2021 - 20 August, 2021
+Week: 15 August, 2021 - 21 August, 2021
 
-Other        79 hrs 51 mins  ███████████████████████░░   92.64 % 
-Vue.js       5 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-JavaScript   1 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other        84 hrs 11 mins  ███████████████████████▒░   93.35 % 
+Vue.js       5 hrs 21 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+JavaScript   35 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 <!--END_SECTION:waka-->
 
