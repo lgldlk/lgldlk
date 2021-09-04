@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 August, 2021 - 02 September, 2021
+Week: 28 August, 2021 - 03 September, 2021
 
 Other        52 hrs 1 min    █████████████████████▓░░░   86.00 % 
 Vue.js       5 hrs 56 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
