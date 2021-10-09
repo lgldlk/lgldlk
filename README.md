@@ -19,13 +19,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 October, 2021 - 07 October, 2021
+Week: 02 October, 2021 - 08 October, 2021
 
-Other        69 hrs 11 mins  ██████████████████████▒░░   88.92 % 
-Vue.js       3 hrs 26 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-HTML         1 hr 53 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-SCSS         1 hr 36 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-TypeScript   55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Other        63 hrs 46 mins  ██████████████████████░░░   87.98 % 
+HTML         3 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Vue.js       2 hrs 21 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+SCSS         1 hr 36 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+TypeScript   55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 <!--END_SECTION:waka-->
 
