@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 November, 2021 - 10 November, 2021
+Week: 05 November, 2021 - 11 November, 2021
 
 PHP          3 hrs 39 mins   ██████████████████▒░░░░░░   73.01 % 
 Other        1 hr 12 mins    ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
