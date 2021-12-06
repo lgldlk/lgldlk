@@ -19,13 +19,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 November, 2021 - 04 December, 2021
+Week: 29 November, 2021 - 05 December, 2021
 
-HTML         11 hrs 34 mins  █████████▓░░░░░░░░░░░░░░░   38.65 % 
-JavaScript   7 hrs 50 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.20 % 
-Vue.js       5 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.08 % 
-CSS          4 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-SCSS         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+HTML         9 hrs 59 mins   ██████████▒░░░░░░░░░░░░░░   40.95 % 
+JavaScript   6 hrs 51 mins   ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+Vue.js       5 hrs 24 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.17 % 
+CSS          1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+SCSS         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 ```
 <!--END_SECTION:waka-->
 
