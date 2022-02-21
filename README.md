@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 February, 2022 - 19 February, 2022
+Week: 14 February, 2022 - 20 February, 2022
 
 Other        72 hrs 49 mins  ██████████████████████░░░   88.17 % 
 Vue.js       6 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
