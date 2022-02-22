@@ -19,13 +19,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 February, 2022 - 20 February, 2022
+From: 13 February, 2022 - To: 20 February, 2022
 
-Other        72 hrs 49 mins  ██████████████████████░░░   88.17 % 
-Vue.js       6 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-JavaScript   2 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-TypeScript   34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-SCSS         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Other        67 hrs 45 mins  ██████████████████████▒░░   89.33 % 
+Vue.js       5 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+JavaScript   2 hrs 14 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+TypeScript   20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+SCSS         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 <!--END_SECTION:waka-->
 
