@@ -20,10 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 September 2022 - To: 10 September 2022
-
-JavaScript   1 min           ████████████████████████▒   97.83 %
-Git          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
