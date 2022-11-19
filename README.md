@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 November 2022 - To: 17 November 2022
+From: 11 November 2022 - To: 18 November 2022
 
 JSON         2 hrs 56 mins   █████████▓░░░░░░░░░░░░░░░   39.07 %
 TypeScript   2 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   29.13 %
