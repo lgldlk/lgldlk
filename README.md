@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 November 2022 - To: 18 November 2022
+From: 12 November 2022 - To: 19 November 2022
 
-JSON         2 hrs 56 mins   █████████▓░░░░░░░░░░░░░░░   39.07 %
-TypeScript   2 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   29.13 %
-JavaScript   1 hr 17 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.18 %
-HTML         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-Markdown     19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-Bash         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+JavaScript   3 hrs 43 mins   █████████▓░░░░░░░░░░░░░░░   38.96 %
+JSON         2 hrs 55 mins   ███████▓░░░░░░░░░░░░░░░░░   30.66 %
+TypeScript   2 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
+HTML         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
