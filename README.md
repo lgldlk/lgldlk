@@ -20,10 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 January 2023 - To: 28 January 2023
-
-JavaScript   1 min           ████████████████████████░   96.40 %
-TypeScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
