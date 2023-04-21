@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 April 2023 - To: 19 April 2023
+From: 13 April 2023 - To: 20 April 2023
 
 JavaScript   18 mins         ███████████████▒░░░░░░░░░   61.22 %
 HTML         11 mins         █████████▓░░░░░░░░░░░░░░░   38.78 %
