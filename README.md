@@ -1,7 +1,7 @@
 <div align="center">
 <h2> 你好，欢迎来到lgldlk的git主页 ! <img src="https://github.com/lgldlk/lgldlk/blob/main/gifs/Hi.gif" width="30px"></h2>
 </div>
-<img src="./gifs/8888.svg" height="100px"/>
+
 <div align="center">
  </br>
  </br>
@@ -12,7 +12,7 @@
 
 </br>
 
-<img  src="http://github-readme-stats.vercel.app/api/top-langs/?username=lgldlk&show_icons=true&theme=gotham&locale=cn&layout=compact" alt="lgldlk"/>  
+<img  src="http://github-readme-stats.vercel.app/api/top-langs/?username=lgldlk&show_icons=true&theme=gotham&locale=cn&layout=compact" alt="lgldlk"/><img src="./gifs/8888.svg" height="100px"/>  
 </br>
 </br>
 
