@@ -27,7 +27,6 @@ No activity tracked
 <!--END_SECTION:waka-->
 
  </br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=lgldlk" alt="lgldlk" />
 
 ---
 
